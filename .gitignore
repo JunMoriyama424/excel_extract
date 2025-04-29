@@ -1,0 +1,23 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# PyInstaller artifacts
+build/
+*.spec
+
+# Editors/IDE specific files
+.vscode/ # VS Codeの設定フォルダ
+.idea/ # PyCharmなどJetBrains系IDEの設定フォルダ
+
+# OS generated files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Any specific output files you don't want to track (optional)
+output.csv
